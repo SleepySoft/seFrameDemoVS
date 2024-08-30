@@ -1,0 +1,3 @@
+[submodule "seFrame"]
+	path = seFrame
+	url = git@github.com:SleepySoft/seFrame.git
