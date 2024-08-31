@@ -18,10 +18,10 @@
     <ClCompile Include="main.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="seFrame\components\Dataframe.c">
+    <ClCompile Include="seFrame\generated\DataframeData.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="seFrame\generated\DataframeData.c">
+    <ClCompile Include="seFrame\components\Dataframe.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
